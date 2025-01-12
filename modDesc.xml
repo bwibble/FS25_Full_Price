@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<modDesc descVersion="94">
+    <author>Beeves</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Full Price</en>
+        <de>Voller Preis</de>
+    </title>
+    <description>
+        <en><![CDATA[
+Full price for vehicles when sold directly at the shop.
+]]></en>
+        <de><![CDATA[Voller Preis für Fahrzeuge beim Verkauf direkt im Shop.
+]]></de>
+    </description>
+    <iconFilename>icon_fullPrice.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="script.lua"/>
+    </extraSourceFiles>
+</modDesc>
